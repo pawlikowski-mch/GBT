@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Punkt A",
+        "opis": "Przykładowy punkt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012229,
+          52.229676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Punkt B",
+        "opis": "Drugi punkt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.017532,
+          52.237049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Punkt C",
+        "opis": "Trzeci punkt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          52.23
+        ]
+      }
+    }
+  ]
+}
